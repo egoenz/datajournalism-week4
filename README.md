@@ -5,7 +5,7 @@ The Flying etiquette dataset was interesting as it gave surveyees small number o
 
 From the dataset, I picked the question: <ins>Is it rude to ask someone to switch seats with you in order to be closer to friends?<ins>
 
-![This is a datawrapper chart](/Downloads/is-asking-to-switch-seats-considered-rude-.png)
+![This is a datawrapper chart](is-asking-to-switch-seats-considered-rude-.png)
 
 
 I picked this particular dataset as this is a question I have previously asked a fellow passenger to switch seats and she agreed. She did not seem bothered by this interaction as she was able to sit *much* closer to the front of the plane. Though, I wanted to see if her seeiming unbothered with my request was *lucky* or if it was the popular sentiment. 
