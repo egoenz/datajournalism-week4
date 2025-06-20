@@ -16,5 +16,5 @@ My chart, <ins>Is Asking to Switch Seats Considered Rude?</ins> shows that in ge
 
 ### Note
 Though, exploring the dataset a bit further shows that asking to switch seats for family is generally considered *less* rude than for friends.
-(Data for family is not visualized here)
+(data for family is not visualized here)
 
